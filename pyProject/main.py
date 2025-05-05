@@ -22,7 +22,7 @@ async def main():
             await db.commit()
 
 
-    bot = Bot(token="")
+    bot = Bot(token="7788561583:AAGjvWBobYYm1oIOcdpR7-lj2pxI48opoQo")
     dp = Dispatcher() #отслеживаем входящие
 
     dp.include_routers(administering_router, message_checking_router)
