@@ -39,8 +39,8 @@
   /mybots → выберите вашего бота → Bot Settings → Group Privacy → выберите Turn off (бот должен видеть все сообщения в группах)
 ## II. Установка
 1.  Склонируйте репозиторий:
-git clone https://github.com/ShestakovID/PythonBotProject
-cd repo-name
+`git clone https://github.com/ShestakovID/PythonBotProject`
+`cd repo-name`
 2.  Установите библиотеки:
 pip install -r requirements.txt
 3.  Откройте файл main.py и вставьте ваш токен вместо пустого значения:
