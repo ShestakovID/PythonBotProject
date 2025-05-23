@@ -65,6 +65,8 @@
 Например, если **ID = 1234567890**, то при добавлении в бота укажите:
 **`/addgroup -1001234567890`**
 
+## [Наша презентация](https://disk.yandex.ru/i/dyPUvFXKY5OdpQ)
+
 ## Ссылки:
 
 * [Habr: Гайд по созданию Телеграмм-ботов](https://habr.com/ru/articles/732136/)
@@ -72,4 +74,4 @@
 * [Документация aiogram](https://docs.aiogram.dev/en/latest/)
 * [Гайд по aiogram 3](https://mastergroosha.github.io/aiogram-3-guide/)
 * [Пример на Habr с aiogram](https://habr.com/ru/companies/amvera/articles/820527/)
-* [Наша презентация](https://disk.yandex.ru/i/dyPUvFXKY5OdpQ)
+
