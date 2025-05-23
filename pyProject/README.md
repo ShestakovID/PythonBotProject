@@ -72,3 +72,4 @@
 * [Документация aiogram](https://docs.aiogram.dev/en/latest/)
 * [Гайд по aiogram 3](https://mastergroosha.github.io/aiogram-3-guide/)
 * [Пример на Habr с aiogram](https://habr.com/ru/companies/amvera/articles/820527/)
+* [Наша презентация](https://disk.yandex.ru/i/dyPUvFXKY5OdpQ)
