@@ -31,7 +31,7 @@
 
 ## I. Начало работы
 1. Создайте Telegram-бота
-1.  Откройте @BotFather в Telegram.
+1.  Откройте [@BotFather](https://t.me/BotFather) в Telegram.
 2.  Запустите  команду 
 `/newbot`
  и следуйте инструкциям.
